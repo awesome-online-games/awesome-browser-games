@@ -31,11 +31,9 @@ A curated list of outstanding browser-based games that require no downloads to p
 ## Classic & Retro
 
 - [Minecraft Classic](https://classic.minecraft.net) - Original version of Minecraft playable in browser.
-- [Freeciv-Web](https://www.freeciv.org) - Free, open-source version of Civilization.
 
 ## RPG & Adventure
 
-- [Eternal Fury](https://www.r2games.com/eternal-fury) - Action RPG with turn-based battles.
 - [Drakensang Online](https://www.drakensang.com) - Diablo-style hack-and-slash MMORPG.
 
 ## Contributing
