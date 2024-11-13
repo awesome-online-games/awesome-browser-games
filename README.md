@@ -13,6 +13,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [RuneScape](https://www.runescape.com) - Classic 3D MMORPG with 15+ years of content.
 - [Dark Orbit Reloaded](https://www.darkorbit.com) - 3D space-combat MMO with massive playerbase.
 - [Flyff Universe](https://universe.flyff.com) - Cross-platform anime MMORPG accessible on any browser.
+- [Monster Hunter Outlanders](https://monsterhunteroutlanders.pro/) - Open-world survival hunting MMORPG by TiMi Studio and Capcom, featuring classic Monster Hunter gameplay optimized for mobile devices.
 
 ## Action & Combat
 
