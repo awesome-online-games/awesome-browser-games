@@ -25,6 +25,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 
 - [Hexa Sort](https://hexa-sort.com/) - Challenge your mind with the ultimate color sorting puzzle game
 - [Tetr.io](https://tetr.io) - Modern multiplayer Tetris clone with various game modes.
+- [123QUIZ!](https://123quiz.com/) - A free online quiz app that allows you to test your general knowledge.
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
