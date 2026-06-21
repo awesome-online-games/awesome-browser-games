@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [World Chase](https://www.worldchase.net) - Weekly competitive geography game. Solve cryptic riddles, find real-world locations on Google Maps, and battle for the global leaderboard.
 
 ## Classic & Retro
 
