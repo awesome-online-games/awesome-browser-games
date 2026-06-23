@@ -37,6 +37,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 
 - [Drakensang Online](https://www.drakensang.com) - Diablo-style hack-and-slash MMORPG.
 - [Piglet's Big Game](https://pigletsbiggame.org) - A charming Disney adventure game where Piglet enters his friends' dreams to help them overcome nightmares.
+- [Auferet](https://auferet.com) - AI game master for solo text adventures and tabletop-style RPGs, with persistent memory of your story and your own uploaded lore.
 
 ## Contributing
 
