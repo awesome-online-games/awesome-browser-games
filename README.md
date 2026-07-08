@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [GGReflex](https://pongvn.com/ggreflex/) - 14 free reflex and skill mini-games (reaction time, aim trainer, CPS, memory, typing) with global leaderboards.
 
 ## Classic & Retro
 
