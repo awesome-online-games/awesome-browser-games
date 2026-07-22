@@ -38,6 +38,10 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Drakensang Online](https://www.drakensang.com) - Diablo-style hack-and-slash MMORPG.
 - [Piglet's Big Game](https://pigletsbiggame.org) - A charming Disney adventure game where Piglet enters his friends' dreams to help them overcome nightmares.
 
+## Trivia & Quiz
+
+- [CloserTo](https://closerto.io/) - Trivia guessing and quiz game. 
+
 ## Contributing
 
 Feel free to submit pull requests to add more awesome browser games. Please ensure they are:
