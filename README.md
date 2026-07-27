@@ -32,6 +32,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 ## Classic & Retro
 
 - [Minecraft Classic](https://classic.minecraft.net) - Original version of Minecraft playable in browser.
+- [OpenMW Web (Morrowind)](https://morrowind.virtastic.app) - The open-source Morrowind engine compiled to WebAssembly; the full 2002 RPG runs client-side at 60fps, free example world included.
 
 ## RPG & Adventure
 
