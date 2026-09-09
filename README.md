@@ -22,6 +22,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
 
 ## Puzzle & Casual
+- [Oppocity](https://play.oppocity.app/) - Guess the antipode of five cities in 75 seconds. Lowest kilometres wins.
 
 - [Hexa Sort](https://hexa-sort.com/) - Challenge your mind with the ultimate color sorting puzzle game
 - [Tetr.io](https://tetr.io) - Modern multiplayer Tetris clone with various game modes.
