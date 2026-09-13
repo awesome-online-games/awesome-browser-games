@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [Parlour](https://parlour.cards) - Cozy browser card table (Blitz, Wild), solo bots or P2P room codes, no accounts. ([GitHub](https://github.com/braedonsaunders/parlour))
 
 ## Classic & Retro
 
@@ -45,3 +46,4 @@ Feel free to submit pull requests to add more awesome browser games. Please ensu
 - Playable directly in modern web browsers
 - Active and maintained
 - Not requiring additional downloads or plugins
+
