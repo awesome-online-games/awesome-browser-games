@@ -28,7 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
-
+- [Play Meowdoku](https://playmeowdoku.com) - Free browser cat logic puzzle (one cat per region; no shared row/column; no diagonal touch).
 ## Classic & Retro
 
 - [Minecraft Classic](https://classic.minecraft.net) - Original version of Minecraft playable in browser.
