@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [Play Balance Grid](https://playbalancegrid.com) - A daily-updated 6x6 binary logic puzzle game (Sudoku-like 0/1 fill rules) in English and German, playable directly in the browser.
 
 ## Classic & Retro
 
