@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [Lie of Sight](https://lieofsight.com/) - A free daily logic puzzle: move a suspect around a room to test what they could have seen, then accuse the liar.
 
 ## Classic & Retro
 
