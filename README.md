@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [Shople](https://playshople.com) - Shople is a free daily game. You get ten tries to name a brand from the clues.
 
 ## Classic & Retro
 
