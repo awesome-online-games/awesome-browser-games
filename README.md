@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
+- [Games with Friends — Sudoku](https://igra.medart.com.ua/sudoku.html) - Free Sudoku with four difficulty levels, notes, undo and local save/resume; Russian interface, no account required.
 
 ## Classic & Retro
 
