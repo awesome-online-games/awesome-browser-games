@@ -20,6 +20,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [War Brokers](https://warbrokers.io) - First-person shooter with multiple game modes including battle royale.
 - [TacticsCore.io](https://tacticscore.io) - Vehicle combat game with various war machines.
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
+- [Pokemon Arena 2D](https://poke2darena.com/) - Free real-time 2D Pokemon battle arena in the browser (HTML5); online 1v1, gym bosses.
 
 ## Puzzle & Casual
 
