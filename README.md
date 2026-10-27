@@ -21,6 +21,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
 - [CS Browser](https://playcsbrowser.com) - Counter-Strike 1.6 style shooter in the browser: Dust 2 bomb defusal, 4v4 friend rooms and bots for empty seats.
 - [Shmup Rogue](https://shmup.org) - Vertical shoot 'em up roguelike with 20 timed waves, a hangar shop and weapon builds.
+- [Geometry Dash JP](https://geometrydashjp.com/) - Free browser Geometry Dash-style rhythm action (not RobTop official).
 
 ## Puzzle & Casual
 
