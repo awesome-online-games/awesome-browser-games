@@ -13,6 +13,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [RuneScape](https://www.runescape.com) - Classic 3D MMORPG with 15+ years of content.
 - [Dark Orbit Reloaded](https://www.darkorbit.com) - 3D space-combat MMO with massive playerbase.
 - [Flyff Universe](https://universe.flyff.com) - Cross-platform anime MMORPG accessible on any browser.
+- [Mu Veyra](https://muveyra.com/play/) - MU Online Season 6 in the browser: no download, no installation, 7 classes, Castle Siege, guilds and PvP; guest play available.
 
 ## Action & Combat
 
