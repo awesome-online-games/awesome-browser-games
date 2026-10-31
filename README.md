@@ -19,15 +19,15 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [War Brokers](https://warbrokers.io) - First-person shooter with multiple game modes including battle royale.
 - [TacticsCore.io](https://tacticscore.io) - Vehicle combat game with various war machines.
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
-- [CS Browser](https://playcsbrowser.com) - Counter-Strike 1.6 style shooter in the browser: Dust 2 bomb defusal, 4v4 friend rooms and bots for empty seats.
-- [Shmup Rogue](https://shmup.org) - Vertical shoot 'em up roguelike with 20 timed waves, a hangar shop and weapon builds.
+- [CS Browser](https://playcsbrowser.com) - Counter-Strike 1.6 style shooter in the browser: Dust 2 bomb defusal, 4v4 friend rooms and bots for empty seats. · [Details](games/cs-browser.md)
+- [Shmup Rogue](https://shmup.org) - Vertical shoot 'em up roguelike with 20 timed waves, a hangar shop and weapon builds. · [Details](games/shmup-rogue.md)
 
 ## Puzzle & Casual
 
 - [Tetr.io](https://tetr.io) - Modern multiplayer Tetris clone with various game modes.
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
-- [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses.
+- [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses. · [Details](games/outlaw-mahjong.md)
 
 ## Classic & Retro
 
