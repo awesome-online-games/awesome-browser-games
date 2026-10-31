@@ -7,6 +7,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Forge of Empires](https://forgeofempires.com) - Build your empire from the Stone Age to the future.
 - [Game of Thrones Winter is Coming](https://got.gtarcade.com) - Official GoT browser strategy game with rich PvE storyline.
 - [Goodgame Empire](https://empire.goodgamestudios.com) - Medieval strategy game focusing on castle building and warfare.
+- [Gammon Royale](https://gammonroyale.com/en) - Free backgammon with friend-by-link multiplayer, four computer levels and post-game move review. Also includes Mahbusa (Plakoto); no sign-up or download needed to play.
 
 ## MMORPGs
 
