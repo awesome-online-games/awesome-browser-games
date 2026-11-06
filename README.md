@@ -29,6 +29,8 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses. · [Details](games/outlaw-mahjong.md)
 
+- [features](https://features.games/) - Untangle dots across eight shared daily puzzle boards and collect the cleared shapes as stamps. Today’s boards are free; an optional one-off unlock adds the archive and replays.
+
 ## Classic & Retro
 
 - [Minecraft Classic](https://classic.minecraft.net) - Original version of Minecraft playable in browser.
