@@ -21,6 +21,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
 - [CS Browser](https://playcsbrowser.com) - Counter-Strike 1.6 style shooter in the browser: Dust 2 bomb defusal, 4v4 friend rooms and bots for empty seats. · [Details](games/cs-browser.md)
 - [Shmup Rogue](https://shmup.org) - Vertical shoot 'em up roguelike with 20 timed waves, a hangar shop and weapon builds. · [Details](games/shmup-rogue.md)
+- [Huss Valley Game](https://hussvalley.io/) - Free multiplayer Halloween chase game in the browser: up to 30 players, trick-or-treaters race to the finish while ghosts hunt them. No download.
 
 ## Puzzle & Casual
 
