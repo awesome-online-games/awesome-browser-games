@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses. · [Details](games/outlaw-mahjong.md)
+- [HopLobby](https://hoplobby.com) - Free multiplayer games to play with friends in one lobby: kart racing, a 24-player battle royale, party board games, drawing battles, 8-ball and 35 classic card games. No download, join with a link or code.
 
 ## Classic & Retro
 
