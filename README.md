@@ -27,6 +27,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Tetr.io](https://tetr.io) - Modern multiplayer Tetris clone with various game modes.
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
+- [Outlier: Unlimited Krillion Game](https://playkrillion.net/) - Free unlimited Krillion-style rare-answer word game, no daily cap.
 - [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses. · [Details](games/outlaw-mahjong.md)
 
 ## Classic & Retro
