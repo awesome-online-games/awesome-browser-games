@@ -28,6 +28,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses. · [Details](games/outlaw-mahjong.md)
+- [Tap Tim](https://ofd.unlock-rent.ru/timtapbot/demo/) - Free casual tapper demo: hatch robot Tim from an egg and evolve him through 10 forms; the full game is a Telegram Mini App. Some art, texts and sound effects were made with AI tools.
 
 ## Classic & Retro
 
