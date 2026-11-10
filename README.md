@@ -24,6 +24,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 
 ## Puzzle & Casual
 
+- [Pips Hints](https://pipshints.org/) - Daily NYT Pips hints and answers, plus free unlimited Pips domino puzzles to play in your browser.
 - [Tetr.io](https://tetr.io) - Modern multiplayer Tetris clone with various game modes.
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
