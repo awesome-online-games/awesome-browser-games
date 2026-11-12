@@ -39,8 +39,10 @@ A curated list of outstanding browser-based games that require no downloads to p
 
 ## Contributing
 
-Feel free to submit pull requests to add more awesome browser games. Please ensure they are:
+Feel free to submit pull requests or issues to add more awesome browser games. Please ensure they are:
 - Free to play (optional premium features acceptable)
 - Playable directly in modern web browsers
 - Active and maintained
 - Not requiring additional downloads or plugins
+
+**Listing requirement:** before we add your game, publish a blog post (or article) on your own website that introduces this list and links to this repository (`https://github.com/awesome-online-games/awesome-browser-games`). Put the URL of that post in your pull request or issue. Submissions without a live post linking here will not be merged.
