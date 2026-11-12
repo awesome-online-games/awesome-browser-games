@@ -16,6 +16,7 @@ A curated list of outstanding browser-based games that require no downloads to p
 
 ## Action & Combat
 
+- [PokéBonk](https://pokebonkfree.online) - Free 3D Pokémon survivor roguelite with all 151 Kanto Pokémon, evolutions and shinies, playable in the browser.
 - [War Brokers](https://warbrokers.io) - First-person shooter with multiple game modes including battle royale.
 - [TacticsCore.io](https://tacticscore.io) - Vehicle combat game with various war machines.
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
