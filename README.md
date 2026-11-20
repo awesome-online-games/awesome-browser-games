@@ -13,22 +13,23 @@ A curated list of outstanding browser-based games that require no downloads to p
 - [RuneScape](https://www.runescape.com) - Classic 3D MMORPG with 15+ years of content.
 - [Dark Orbit Reloaded](https://www.darkorbit.com) - 3D space-combat MMO with massive playerbase.
 - [Flyff Universe](https://universe.flyff.com) - Cross-platform anime MMORPG accessible on any browser.
-- [Monster Hunter Outlanders](https://monsterhunteroutlanders.pro/) - Open-world survival hunting MMORPG by TiMi Studio and Capcom, featuring classic Monster Hunter gameplay optimized for mobile devices.
 
 ## Action & Combat
 
 - [War Brokers](https://warbrokers.io) - First-person shooter with multiple game modes including battle royale.
 - [TacticsCore.io](https://tacticscore.io) - Vehicle combat game with various war machines.
 - [Wings.io](https://wings.io) - Aerial dogfighting game with lasers and powerups.
+- [CS Browser](https://playcsbrowser.com) - Counter-Strike 1.6 style shooter in the browser: Dust 2 bomb defusal, 4v4 friend rooms and bots for empty seats. · [Details](games/cs-browser.md)
+- [Shmup Rogue](https://shmup.org) - Vertical shoot 'em up roguelike with 20 timed waves, a hangar shop and weapon builds. · [Details](games/shmup-rogue.md)
 
 ## Puzzle & Casual
 
-- [Hexa Sort](https://hexa-sort.com/) - Challenge your mind with the ultimate color sorting puzzle game
 - [Tetr.io](https://tetr.io) - Modern multiplayer Tetris clone with various game modes.
 - [Powerline.io](https://powerline.io) - Snake-like game with neon graphics and multiplayer features.
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker) - Popular idle clicking game.
 - [Grow Cube](https://grow-cube.org/) - A puzzle game where creativity meets logic.
 - [Open Party Lab](https://open-party-lab.onrender.com) - Free party-game collection with card, drawing and guessing games on a shared screen, controlled from phone browsers.
+- [Outlaw Mahjong](https://mahjongcardgame.com) - Mahjong roguelike deckbuilder: play small hands and recruit the 108 outlaws of the Water Margin to beat bosses. · [Details](games/outlaw-mahjong.md)
 
 ## Classic & Retro
 
@@ -37,12 +38,13 @@ A curated list of outstanding browser-based games that require no downloads to p
 ## RPG & Adventure
 
 - [Drakensang Online](https://www.drakensang.com) - Diablo-style hack-and-slash MMORPG.
-- [Piglet's Big Game](https://pigletsbiggame.org) - A charming Disney adventure game where Piglet enters his friends' dreams to help them overcome nightmares.
 
 ## Contributing
 
-Feel free to submit pull requests to add more awesome browser games. Please ensure they are:
+Feel free to submit pull requests or issues to add more awesome browser games. Please ensure they are:
 - Free to play (optional premium features acceptable)
 - Playable directly in modern web browsers
 - Active and maintained
 - Not requiring additional downloads or plugins
+
+**Listing requirement:** before we add your game, publish a blog post (or article) on your own website that introduces this list and links to this repository (`https://github.com/awesome-online-games/awesome-browser-games`). Put the URL of that post in your pull request or issue. Submissions without a live post linking here will not be merged.
